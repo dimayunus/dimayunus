@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about .....python
+- 💬 Ask me about .....python,Mysql
 - 📫 Reach me at dimayunusp@gmail.com
 
 ### Connect with me:
