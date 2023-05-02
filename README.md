@@ -4,7 +4,7 @@
 
 ### I'm a Learner
 
-- 💬 Ask me about .....python,Mysql
+- 💬 Ask me about .....C,java,Mysql
 - 📫 Reach me at dimayunusp@gmail.com
 
 ### Connect with me:
